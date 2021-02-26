@@ -30,6 +30,9 @@ form input{
     border-bottom-left-radius: 50px;
 
 }
+form input:focus{
+    outline: none;
+}
 form button{
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
